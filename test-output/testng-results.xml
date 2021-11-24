@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="T type project REGRESSION Suite" duration-ms="24251" started-at="2021-11-24T13:54:22Z" finished-at="2021-11-24T13:54:46Z">
+    <groups>
+    </groups>
+    <test name="T type test" duration-ms="24251" started-at="2021-11-24T13:54:22Z" finished-at="2021-11-24T13:54:46Z">
+      <class name="basepage.Test1">
+        <test-method status="PASS" signature="testnumber_1()[pri:0, instance:basepage.Test1@42d80b78]" name="testnumber_1" duration-ms="13975" started-at="2021-11-24T13:54:22Z" finished-at="2021-11-24T13:54:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testnumber_1 -->
+        <test-method status="PASS" signature="totalImages()[pri:0, instance:basepage.Test1@42d80b78]" name="totalImages" duration-ms="10199" started-at="2021-11-24T13:54:36Z" finished-at="2021-11-24T13:54:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalImages -->
+      </class> <!-- basepage.Test1 -->
+    </test> <!-- T type test -->
+  </suite> <!-- T type project REGRESSION Suite -->
+</testng-results>
